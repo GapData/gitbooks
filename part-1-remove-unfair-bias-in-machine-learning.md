@@ -16,19 +16,19 @@ You will learn:
 If you have not done so yet, go to the [Introduction](https://margriet-groenendijk.gitbook.io/trusted-ai-workshop/introduction) and set up your free IBM Cloud account and follow the instructions to provision the services needed for this workshop.
 {% endhint %}
 
+After going through the cloud environment setup you should now see the below screen.
+
+{% hint style="info" %}
+You might have noticed the name _**IBM Cloud Pak for Data**_ at the top of the below screen instead of Watson Studio. This is the new name of the platform and includes Watson Studio, Watson Knowledge Catalog and Watson Machine Learning. This is now consistent with the Cloud Paks that you can install and run on any cloud with OpenShift, both private and public.
+{% endhint %}
+
 ![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
 
 ## Jupyter notebooks in Watson Studio
 
-Jupyter notebooks are running in an open-source web application that allows you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
+We will start by setting up a project in which you can store data, notebooks and also many other assets. 
 
-Once you have opened Watson Studio, you will see the below:
-
-\[WS welcome page\]
-
-{% hint style="info" %}
-You might have noticed the name Cloud Pak for Data at the top. This is the new name for this service and it includes \*\*\*. Through this renaming this is now consistent with all Cloud Paks that you can install and run on any cloud with OpenShift, both private and public.
-{% endhint %}
+Within the new project we will use Jupyter notebooks that allow you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
 
 ### Create a project
 
