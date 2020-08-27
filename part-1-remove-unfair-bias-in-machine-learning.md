@@ -26,14 +26,14 @@ You might have noticed the name _**IBM Cloud Pak for Data**_ at the top of the b
 
 ## Jupyter notebooks in Watson Studio
 
-We will start by setting up a project in which you can store data, notebooks and also many other assets. 
+Let's start by setting up a project where you can store data, notebooks and also many other assets. 
 
-Within the new project we will use Jupyter notebooks that allow you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
+Within the project we will use Jupyter notebooks that allow you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
 
 ### Create a project
 
 1. Download the below project file \(do not unzip\).
-2. Go to [Watson Studio](https://dataplatform.ibm.com) \(login if necessary\)
+2. Go to Watson Studio \(login if necessary\)
 3. From the home page, click on the _**Create a Project**_ card     
 4. Select the _**Create a project from a sample or file**_ option 
 5. Browse for the project zip file you downloaded earlier and provide a name for the new project \(i.e. _trusted-ai-workshop_\)    
