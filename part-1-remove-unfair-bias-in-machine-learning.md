@@ -22,7 +22,7 @@ After going through the cloud environment setup you should now see the below scr
 You might have noticed the name _**IBM Cloud Pak for Data**_ at the top of the below screen instead of Watson Studio. This is the new name of the platform and includes Watson Studio, Watson Knowledge Catalog and Watson Machine Learning. This is now consistent with the Cloud Paks that you can install and run on any cloud with OpenShift, both private and public.
 {% endhint %}
 
-![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
+![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56%20%281%29.png)
 
 ## Jupyter notebooks in Watson Studio
 
@@ -31,6 +31,8 @@ Let's start by setting up a project where you can store data, notebooks and also
 Within the project we will use Jupyter notebooks that allow you to create and share documents containing live code, equations, visualisations and explanatory text. We will be using a number of notebooks in Watson Studio throughout this workshop. These notebooks are contained in a project that you will import into your Watson Studio instance.
 
 ### Create a project
+
+![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
 
 1. Download the below project file \(do not unzip\).
 2. Go to Watson Studio \(login if necessary\)
