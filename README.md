@@ -17,7 +17,7 @@ This 3 hour workshop will begin with an introduction on the tools and data scien
 
 ### Cloud Environment Setup
 
-Start with setting up your IBM Cloud account and to get ready to follow along with the workshop [here](https://margriet-groenendijk.gitbook.io/trusted-ai-workshop/introduction)
+Start with setting up your IBM Cloud account to get ready to follow along with the workshop [here](https://margriet-groenendijk.gitbook.io/trusted-ai-workshop/introduction)
 
 ### **Part 1: Remove Unfair Bias in Machine Learning**
 
