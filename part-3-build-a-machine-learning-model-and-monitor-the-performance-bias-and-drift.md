@@ -7,8 +7,6 @@ You have two options here:
 * Go directly to OpenScale to explore a demo 
 * Configure OpenScale from a notebook \(optional\)
 
-Before you can successfully run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
-
 ## Go directly to OpenScale
 
 * Go to your IBM Cloud Resource list
@@ -24,6 +22,8 @@ For instance click on **88%** to see the below evaluations, where you can furthe
 ![](.gitbook/assets/screenshot-2020-09-03-at-19.15.18.png)
 
 ## Configure OpenScale from a notebook 
+
+Before you can successfully run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
 
 ### IBM Cloud API key
 
