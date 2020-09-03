@@ -85,7 +85,7 @@ As before, in the next screen select **From URL**, give the notebook a name, pas
 
 A kernel is being spun up and the notebook loaded. Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
 
-### Watson OpenScale
+### Explore OpenScale
 
 After successfully running all cells in the above notebook you should now have a model deployed that is monitored in OpenScale. 
 
