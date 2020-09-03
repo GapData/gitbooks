@@ -36,5 +36,29 @@ In the below screen, give the space a name and select a storage service and mach
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-14.39.30.png)
 
+Click on the new space:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-17.15.29.png)
+
+And go to the Settings:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-17.16.42.png)
+
+Here you find the **Space ID**. Copy this ID, as it is also needed in the notebook to deploy the model. 
+
+## Load the notebook
+
+Now go back to your project in **Watson Studio**.
+
+Go to the **Assets** tab and click on **Add to project** or **New Notebook**:
+
+As before, in the next screen select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default. 
+
+`https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/3-xxx-xx.ipynb`
+
+
+
+
+
 
 
