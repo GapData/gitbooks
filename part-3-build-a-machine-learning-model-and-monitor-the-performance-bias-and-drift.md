@@ -2,9 +2,30 @@
 
 
 
+You have two options here:
+
+* Go directly to OpenScale to explore a demo 
+* Configure OpenScale from a notebook \(optional\)
+
 Before you can successfully run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
 
-## IBM Cloud API key
+## Go directly to OpenScale
+
+* Go to your IBM Cloud Resource list
+* Click on OpenScale
+* Click on Launch Application
+
+When you open OpenScale for the first time a demo is automatically created. Click on the numbers in the tile on the Insights Dashboard to explore the different options:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-19.13.27.png)
+
+For instance click on **88%** to see the below evaluations, where you can further explore through the menu on the left. 
+
+![](.gitbook/assets/screenshot-2020-09-03-at-19.15.18.png)
+
+## Configure OpenScale from a notebook 
+
+### IBM Cloud API key
 
 To deploy a model to Watson Machine Learning and then monitor this model on Watson OpenScale an IBM Cloud API is needed. This key is associated with your identity and is used to access cloud platform and classic infrastructure APIs.
 
@@ -20,7 +41,7 @@ Give the API a name, e.g. _**trustedAI**_ and click **Create.** Now copy or down
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-14.14.38.png)
 
-## Deployment Spaces
+### Deployment Spaces
 
 Next set up a deployment space where the model will be deployed. Go to [deployment spaces](https://dataplatform.cloud.ibm.com/ml-runtime/spaces?context=cpdaas) from the menu on the left:
 
@@ -46,7 +67,7 @@ And go to the Settings:
 
 Here you find the **Space ID**. Copy this ID, as it is also needed in the notebook to deploy the model. 
 
-## Load and run the notebook
+### Load and run the notebook
 
 Now go back to your project in **Watson Studio**.
 
@@ -58,7 +79,7 @@ As before, in the next screen select **From URL**, give the notebook a name, pas
 
 A kernel is being spun up and the notebook loaded. Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
 
-## Watson OpenScale
+### Watson OpenScale
 
 After successfully running all cells in the above notebook you should now have a model deployed that is monitored in OpenScale. 
 
