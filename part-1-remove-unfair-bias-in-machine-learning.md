@@ -44,18 +44,27 @@ Your previously created Object Storage should be added automatically as above. B
 
 **Welcome to your new project!** Here you can store notebooks, data and much more. You can also add collaborators, schedule jobs and customise runtime environments. 
 
-Click on **Add to project** at the top right and you will see this menu:
+Click on **Add to project** at the top right and you will see the below menu with a list of all assets you can add. Click on **Notebook** to add one.
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
 
-This is a list of all assets you can add. Click on **Notebook** to add one.
+This will bring you here, where you can create a new notebook, add one from a local file or from a URL:
 
+![](.gitbook/assets/screenshot-2020-09-03-at-11.22.15.png)
 
+To load the first notebook for this workshop, select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default. 
 
-### Open a notebook
+`https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/1-remove-bias.ipynb`
 
-1. Go to the assets tab
-2. Click on the pencil next to the 
+### Running a notebook
 
+Now a kernel is being spun up and the notebook loaded:
 
+![](.gitbook/assets/screenshot-2020-09-03-at-11.28.05.png)
+
+Run each cell in oder by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
+
+The notebook explores bias in a credit dataset. Find the original data [here](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) and on [Kaggle](https://www.kaggle.com/uciml/german-credit). 
+
+Go to the next part of the workshop after you have explored the notebook.
 
