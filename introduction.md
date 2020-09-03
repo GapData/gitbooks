@@ -38,7 +38,7 @@ From the _Resource list_ click on **Create resource** in the top right to add th
 
 ### Object Storage
 
-Select _Services_ and _Storage_ from the menu on the left and search for the **Object Storage**. Click on the tile:
+Select **Services** and **Storage** from the menu on the left and search for **Object Storage**. Click on the tile:
 
 ![](.gitbook/assets/screenshot-2020-08-21-at-12.44.15.png)
 
