@@ -23,7 +23,7 @@ For instance click on **88%** to see the below evaluations, where you can furthe
 
 ## Configure OpenScale from a notebook 
 
-Before you can successfully run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
+Before you can run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
 
 ### IBM Cloud API key
 
