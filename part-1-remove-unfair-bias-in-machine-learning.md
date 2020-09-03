@@ -66,5 +66,9 @@ Run each cell in order by selecting it, and then clicking the ▶︎ Run button 
 
 The notebook explores bias in a credit dataset. Find the original data [here](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) and on [Kaggle](https://www.kaggle.com/uciml/german-credit). 
 
+To go back to the notebook later go to the Projects page and assets tab. Here you find the notebook. Click on the name to see the code, or the pencil to edit and run the notebook:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-12.00.01.png)
+
 Go to the next part of the workshop after you have explored the notebook.
 
