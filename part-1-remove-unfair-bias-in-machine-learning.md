@@ -40,12 +40,17 @@ In the next screen click on **Create an empty project**. Then give your new proj
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-10.50.45.png)
 
-1. 2. Download the below project file \(do not unzip\).
-3. Go to Watson Studio \(login if necessary\)
-4. From the home page, click on the _**Create a Project**_ card     
-5. Select the _**Create a project from a sample or file**_ option 
-6. Browse for the project zip file you downloaded earlier and provide a name for the new project \(i.e. _trusted-ai-workshop_\)    
-7. Once the import completes, click on the _**'View new project'**_ button.
+Your previously created Object Storage should be added automatically as above. But it is possible you have to select it from a drop-down menu first.
+
+**Welcome to your new project!** Here you can store notebooks, data and much more. You can also add collaborators, schedule jobs and customise runtime environments. 
+
+Click on **Add to project** at the top right and you will see this menu:
+
+![](.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
+
+This is a list of all assets you can add. Click on **Notebook** to add one.
+
+
 
 ### Open a notebook
 
