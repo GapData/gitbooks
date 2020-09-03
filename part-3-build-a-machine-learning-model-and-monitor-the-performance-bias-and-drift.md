@@ -1,8 +1,14 @@
 # Part 3: Build a machine learning model and monitor the performance, bias and drift
 
+Watson OpenScale tracks and measures outcomes from your AI models, and helps ensure they remain fair, explainable and compliant wherever your models were built or are running. OpenScale is designed as an open platform that will operate with various model development environments and various open source tools, including TensorFlow, Keras, SparkML, Seldon, AWS SageMaker, AzureML and more.
 
+Watson OpenScale provides a set of monitoring and management tools that help you build trust and implement control and governance structures around your AI investments.
 
-You have two options here:
+* Providing production monitoring for compliance and safeguards \(auditing model decisions, detecting biases, etc\)
+* Ensuring that models are resilient to changing situations
+* Aligning model performance with business outcomes 
+
+You have two options for this part of the workshop:
 
 * Go directly to OpenScale to explore a demo 
 * Configure OpenScale from a notebook \(optional\)
