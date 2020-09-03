@@ -8,25 +8,6 @@ Watson OpenScale provides a set of monitoring and management tools that help you
 * Ensuring that models are resilient to changing situations
 * Aligning model performance with business outcomes 
 
-You have two options for this part of the workshop:
-
-* Go directly to OpenScale to explore a demo 
-* Configure OpenScale from a notebook \(optional\)
-
-## Go directly to OpenScale
-
-* Go to your IBM Cloud Resource list
-* Click on OpenScale
-* Click on Launch Application
-
-When you open OpenScale for the first time a demo is automatically created. Click on the numbers in the tile on the Insights Dashboard to explore the different options:
-
-![](.gitbook/assets/screenshot-2020-09-03-at-19.13.27.png)
-
-For instance click on **88%** to see the below evaluations, where you can further explore through the menu on the left. 
-
-![](.gitbook/assets/screenshot-2020-09-03-at-19.15.18.png)
-
 ## Configure OpenScale from a notebook 
 
 Before you can run the last notebook, an API key and deployment space need to be set up. Follow the below instructions for this.
