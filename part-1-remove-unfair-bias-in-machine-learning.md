@@ -62,7 +62,7 @@ Now a kernel is being spun up and the notebook loaded:
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-11.28.05.png)
 
-Run each cell in oder by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
+Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
 
 The notebook explores bias in a credit dataset. Find the original data [here](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) and on [Kaggle](https://www.kaggle.com/uciml/german-credit). 
 
