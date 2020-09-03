@@ -31,7 +31,7 @@ AI Explainability 360 \(AIX360\) is an open source toolkit that includes algorit
 
 ### **Part 3: Build a machine learning model and monitor the performance, bias and drift**
 
-In the last part of the workshop the open-source tools are combined into one pipeline. Model building in Watson Studio, as well as deployment of the model as a REST API to Watson Machine Learning. Finally, Watson OpenScale will track and measure the model, to help ensure it remains fair, explainable and compliant. We will go through the steps of building a custom model serving engine using Keras, access this model using a REST API and log the payload for the model using Watson OpenScale. We will walk through the process of deploying a credit risk model and then monitoring the model to explore the different aspects of trusted AI.
+In the last part of the workshop the open-source tools are combined into one pipeline. Model building in Watson Studio, as well as deployment of the model as a REST API to Watson Machine Learning. Finally, Watson OpenScale will track and measure the model, to help ensure it remains fair, explainable and compliant. We will go through the steps of building a custom model serving engine, access this model using a REST API and log the payload for the model using Watson OpenScale. We will walk through the process of deploying a credit risk model and then monitoring the model to explore the different aspects of trusted AI.
 
 ## Agenda
 
