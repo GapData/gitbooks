@@ -11,7 +11,7 @@ description: >-
 
 This 3 hour workshop will start with an introduction on the tools and data science techniques specific to fair and explainable AI. We will discuss how to remove unfair bias in machine learning, how to explain machine learning models, and move on to monitoring performance, bias and drift. Throughout we will walk through practical examples, with access to Jupyter notebooks leveraging the IBM Cloud infrastructure.
 
-\[placeholder for slides\]
+{% file src=".gitbook/assets/200904-fair-and-explainable-ai-margriet.pdf" caption="Slides" %}
 
 ### Cloud Environment Setup
 
