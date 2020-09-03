@@ -62,7 +62,7 @@ Go to the **Assets** tab and click on **Add to project** or **New Notebook**:
 
 As before, in the next screen select **From URL**, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default. 
 
-`https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/3-xxx-xx.ipynb`
+`https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/3-monitor-model.ipynb`
 
 A kernel is being spun up and the notebook loaded. Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
 
