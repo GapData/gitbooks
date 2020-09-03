@@ -46,7 +46,7 @@ And go to the Settings:
 
 Here you find the **Space ID**. Copy this ID, as it is also needed in the notebook to deploy the model. 
 
-## Load the notebook
+## Load and run the notebook
 
 Now go back to your project in **Watson Studio**.
 
@@ -56,9 +56,13 @@ As before, in the next screen select **From URL**, give the notebook a name, pas
 
 `https://github.com/MargrietGroenendijk/gitbooks/blob/master/notebooks/3-xxx-xx.ipynb`
 
+A kernel is being spun up and the notebook loaded. Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
 
+## Watson OpenScale
 
+After successfully running all cells in the above notebook you should now have a model deployed that is monitored in OpenScale. 
 
+Go to [OpenScale](https://aiopenscale.cloud.ibm.com/) to explore the dashboards. 
 
 
 
