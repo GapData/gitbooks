@@ -48,7 +48,7 @@ Click on the new space:
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-17.15.29.png)
 
-And go to the Settings:
+And go to the **Settings**:
 
 ![](.gitbook/assets/screenshot-2020-09-03-at-17.16.42.png)
 
