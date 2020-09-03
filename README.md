@@ -11,7 +11,7 @@ description: >-
 
 ## Overview
 
-This 3 hour workshop will begin with an introduction on the tools and data science techniques specific to fair and explainable AI. We will discuss how to remove unfair bias in Machine Learning, how to explain Machine learning models, and move onto building a Machine Learning model, monitoring performance, bias and drift. Throughout we will walk through practical examples, with access to Jupyter notebooks leveraging the IBM Cloud infrastructure.
+This 3 hour workshop will start with an introduction on the tools and data science techniques specific to fair and explainable AI. We will discuss how to remove unfair bias in machine learning, how to explain machine learning models, and move on to monitoring performance, bias and drift. Throughout we will walk through practical examples, with access to Jupyter notebooks leveraging the IBM Cloud infrastructure.
 
 \[placeholder for slides\]
 
