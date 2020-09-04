@@ -25,5 +25,10 @@ Or through these resources \(more will be added\):
 * [Machine learning for developers](https://developer.ibm.com/series/learning-path-machine-learning-for-developers)
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
+## Contact me
+
+* On [twitter](https://twitter.com/MargrietGr)
+* On [linkedIn ](https://www.linkedin.com/in/margrietgroenendijk/)
+
 
 
